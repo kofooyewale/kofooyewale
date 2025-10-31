@@ -3,9 +3,8 @@
  
 I started my journey in finance, where I learned the power of data-driven decisions. Now, I combine that analytical background with my growing expertise in Python, AI models, and data processing to create solutions that automate, optimize, and inspire.
 
-:gear: Tech Stack:
- Python :snake: | Pandas | BeautifulSoup | Selenium | Streamlit | TensorFlow | PyTorch | Excel/Sheets | Chromadb
--:computer:🔭 I’m currently working on
+- :gear: Tech Stack: Python :snake: | Pandas | BeautifulSoup | Selenium | Streamlit | TensorFlow | PyTorch | Excel/Sheets | Chromadb
+- :computer:🔭 I’m currently working on
     - Cleaning, validating, and structuring data
     - Creating an AI-powered chatbot dashboard using Streamlit
     - Automating workflows with Python
