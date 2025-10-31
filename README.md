@@ -11,11 +11,11 @@ I started my journey in finance, where I learned the power of data-driven decisi
     - Automating workflows with Python
     - Web scraping and real-time data collection
     - Exploring AI models and Generative AI concepts ...
--🌱 I’m currently learning: Python scripting, data processing, and Generative AI concepts
--👯 I’m looking to collaborate on data-driven projects, AI applications, and automation tools  
--🤔 I’m looking for help with building scalable data pipelines and model optimization
--💬 Ask me about AI, data cleaning, web scraping, or creating simple automation apps
+- 🌱 I’m currently learning: Python scripting, data processing, and Generative AI concepts
+- 👯 I’m looking to collaborate on data-driven projects, AI applications, and automation tools  
+- 🤔 I’m looking for help with building scalable data pipelines and model optimization
+- 💬 Ask me about AI, data cleaning, web scraping, or creating simple automation apps
 - 📫 How to reach me:LinkedIn:
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I enjoy exploring how technology can make everyday tasks easier and more efficient!  
--->
+
