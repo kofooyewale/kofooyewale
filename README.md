@@ -16,8 +16,8 @@ I started my journey in finance, where I learned the power of data-driven decisi
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on
-- Cleaning, validating, and structuring data
+🔭 I’m currently working on
+    - Cleaning, validating, and structuring data
 Creating an AI-powered chatbot dashboard using Streamlit
 Automating workflows with Python
 Web scraping and real-time data collection
