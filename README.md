@@ -6,11 +6,11 @@ I started my journey in finance, where I learned the power of data-driven decisi
 
 -:gear: Tech Stack:
  Python :snake: | Pandas | BeautifulSoup | Selenium | Streamlit | TensorFlow | PyTorch | Excel/Sheets | Chromadb
--:seedling: I’m currently learning Python scripting, data processing, and Generative AI concepts
+-:seedling: I’m currently learning 
 -:sparkles: Goal:
  To grow into a well-rounded AI professional who builds smart, reliable, and human-centered tech solutions.
 -:mailbox: Let’s connect:
- LinkedIn:
+ 
 
 **kofooyewale/kofooyewale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on
     - Cleaning, validating, and structuring data
-Creating an AI-powered chatbot dashboard using Streamlit
-Automating workflows with Python
-Web scraping and real-time data collection
-Exploring AI models and Generative AI concepts ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    - Creating an AI-powered chatbot dashboard using Streamlit
+    - Automating workflows with Python
+    - Web scraping and real-time data collection
+    - Exploring AI models and Generative AI concepts ...
+🌱 I’m currently learning: Python scripting, data processing, and Generative AI concepts
+👯 I’m looking to collaborate on data-driven projects, AI applications, and automation tools  
+🤔 I’m looking for help with building scalable data pipelines and model optimization
+💬 Ask me about AI, data cleaning, web scraping, or creating simple automation apps
+- 📫 How to reach me:LinkedIn:
+- 😄 Pronouns: She/Her 
+- ⚡ Fun fact: I enjoy exploring how technology can make everyday tasks easier and more efficient!  
 -->
