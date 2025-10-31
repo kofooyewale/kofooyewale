@@ -15,7 +15,8 @@ I started my journey in finance, where I learned the power of data-driven decisi
 **kofooyewale/kofooyewale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+:gear: Tech Stack:
+ Python :snake: | Pandas | BeautifulSoup | Selenium | Streamlit | TensorFlow | PyTorch | Excel/Sheets | Chromadb
 🔭 I’m currently working on
     - Cleaning, validating, and structuring data
     - Creating an AI-powered chatbot dashboard using Streamlit
