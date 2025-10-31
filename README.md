@@ -3,11 +3,7 @@
  
 I started my journey in finance, where I learned the power of data-driven decisions. Now, I combine that analytical background with my growing expertise in Python, AI models, and data processing to create solutions that automate, optimize, and inspire.
 -:computer: What I love working on:
-Cleaning, validating, and structuring data
-Creating an AI-powered chatbot dashboard using Streamlit
-Automating workflows with Python
-Web scraping and real-time data collection
-Exploring AI models and Generative AI concepts
+
 -:gear: Tech Stack:
  Python :snake: | Pandas | BeautifulSoup | Selenium | Streamlit | TensorFlow | PyTorch | Excel/Sheets | Chromadb
 -:seedling: I’m currently learning Python scripting, data processing, and Generative AI concepts
@@ -20,7 +16,12 @@ Exploring AI models and Generative AI concepts
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on
+- Cleaning, validating, and structuring data
+Creating an AI-powered chatbot dashboard using Streamlit
+Automating workflows with Python
+Web scraping and real-time data collection
+Exploring AI models and Generative AI concepts ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
